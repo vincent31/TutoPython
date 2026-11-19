@@ -1,5 +1,6 @@
 def main():
-    print("Hello Vincent! Welcome to the Python world.")
+    print("Hello Vince! ")
+    print("Welcome to the Python world.")
 
 
 if __name__ == "__main__":
